@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #A6E3E9;
+}
+
+.header {
+    text-align: center;
+    font-size: 25px;
+    color: #ffff;
+    background-color: #222831;
+}
+
+h1 {
+    margin: 0;
+    padding: 30px;
+}
