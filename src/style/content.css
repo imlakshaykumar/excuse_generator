@@ -1,0 +1,68 @@
+.mainDiv {
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+    margin-top: 4rem;
+    border-radius: 20px;
+    background-color: #364F6B40;
+    padding: 2rem;
+    font-size: 22px;
+}
+
+h2 {
+    font-size: 25px;
+    margin-top: 0;
+}
+
+.list {
+    letter-spacing: 0.05rem;
+    line-height: 1.2;
+    font-size: 20px;
+}
+
+.para {
+    margin: 0;
+}
+
+.inputArea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 18px;
+    border: transparent;
+    border-radius: 5px;
+    background-color: #E3FDFD;
+    margin: 10px 0 25px 0;
+}
+
+.button {
+    margin: auto;
+    text-align: center;
+}
+
+.btn {
+    padding: 15px;
+    border-radius: 10px;
+    border: transparent;
+    font-size: inherit;
+    background-color: #146C94;
+    color: #fff;
+    font-weight: 800;
+    letter-spacing: 0.05rem;
+    cursor: pointer;
+}
+
+.excuse {
+    background-color: #ECF2FF40;
+    border-radius: 30px;
+    padding: 10px 20px;
+    margin-top: 2rem;
+}
+
+.wrongValue {
+    letter-spacing: 0.05rem;
+    background-color: #EB455F40;
+    font-size: 20px;
+    text-align: center;
+    padding: 3px 0;
+}
